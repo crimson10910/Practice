@@ -1,0 +1,10 @@
+D:\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe.config
+D:\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.exe
+D:\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\bin\Debug\Smertiorlife.pdb
+D:\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.AssemblyReference.cache
+D:\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.TheGameOfLife.resources
+D:\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.Properties.Resources.resources
+D:\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.GenerateResource.cache
+D:\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.csproj.CoreCompileInputs.cache
+D:\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.exe
+D:\Практика жизнь\код\Smertiorlife1\Smertiorlife\Smertiorlife\obj\Debug\Smertiorlife.pdb
